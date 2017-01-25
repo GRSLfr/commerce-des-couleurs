@@ -1,0 +1,15 @@
+# Site settings
+title: Le commerce des couleurs
+email: contact@commerce-des-couleurs.co
+description: Nous vendons des couleurs parfaite et pure à des prix exeptionnels !
+baseurl: "/commerce-des-couleurs" # the subpath of your site, e.g. /blog/
+url: "https://grslfr.github.io/commerce-des-couleurs/" # the base hostname & protocol for your site
+twitter_username: grsl_fr
+github_username:  GRSLfr
+api_key: MzgzNDhjNjktNWQ5OC00NjMxLWFmZjgtNGM3OWIxM2E4YjEwNjM2MjA5NDc3MjEzMjY2NTY2
+
+# Build settings
+markdown: kramdown
+collections:
+  products:
+    output: true
